@@ -18,3 +18,6 @@ In this 5000 patients with mean[SD] age 44.96[15.69], 57.3% female, 12.9% smokin
 ##
 
 All analyses are coded and can be reproduced using the `analysis.R` script.
+
+##
+I did not use generative AI technology (e.g., ChatGPT) to complete any portion of the work.
